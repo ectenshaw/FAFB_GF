@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d006602-1d69-43f6-b525-878186eee7c0" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/.history/py/96a0b1a886b21551.txt" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/.history/py/f3156a89795045f6.txt" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PyCharmCE2018.3/system/workspace/descendingneuroncodegeneral.c6bc820e.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PyCharmCE2018.3/system/workspace/descendingneuroncodegeneral.e16d2df.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gfproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetGF1Connectivity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GetGF1Connectivity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VENV/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/../VENV/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gf-input-neurons-master - Shortcut.lnk" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testForDNcells.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding>
+                <element signature="e#38#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CustomNeuronClassSet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1629">
+              <caret line="649" column="56" selection-start-line="649" selection-start-column="56" selection-end-line="649" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jsonNeurons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyCustomDNNeuronClass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exportToCSV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5883">
+              <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GetDNrightConnectivity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5661">
+              <caret line="156" column="32" selection-start-line="156" selection-start-column="32" selection-end-line="156" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hex</find>
+      <find>def subsetb</find>
+      <find>def buil</find>
+      <find>partners</find>
+      <find>getPresynapticPartners</find>
+      <find>getpre</find>
+      <find>C:/</find>
+      <find>&quot;C:/Users/polskyj/Dropbox (HHMI)/CAT-CardLab-Files/AllScriptingResults&quot;</find>
+      <find>lo_</find>
+      <find>getConn</find>
+      <find>get</find>
+      <find>allsynapse</find>
+      <find>getallc</find>
+      <find>g</find>
+      <find>container</find>
+      <find>getC</find>
+      <find>skeletons</find>
+      <find>DNinput</find>
+      <find>getsyn</find>
+      <find>build</find>
+      <find>synapse</find>
+      <find>syn</find>
+      <find>connect</find>
+      <find>connector</find>
+      <find>getallconnectors</find>
+      <find>DNinpu</find>
+      <find>DNp02</find>
+      <find>LC4</find>
+      <find>getConnectorIDs</find>
+      <find>annotation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DNright</replace>
+      <replace>DN</replace>
+      <replace>e64fcbce727720d6bb53d3ea015e048755fccdeb</replace>
+      <replace>django.contrib.gis.geometry.regex</replace>
+      <replace />
+      <replace>&quot;C:/Users/tenshawe/Desktop/pyCharmOutputs&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\polskyj\MyCode\DescendingNeuronCodeGeneral</dir>
+      <dir>C:\Users\polskyj\catmaid\DescendingNeuronCodeGeneral</dir>
+      <dir>C:\Users\polskyj</dir>
+      <dir>c:\programdata\anaconda3\lib\site-packages</dir>
+      <dir>C:\ProgramData\Anaconda3\Lib\site-packages\django</dir>
+      <dir>C:\Users\polskyj\catmaid</dir>
+      <dir>C:\Users\polskyj\catmaid\django\applications\catmaid</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GetAnnotationsByID" />
+        <option value="$PROJECT_DIR$/GetAnnotationsRemoveExtraneousInfo.py" />
+        <option value="$PROJECT_DIR$/getSkeletonNodesCompact.py" />
+        <option value="$PROJECT_DIR$/GetAnnotationsByID.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/models.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/control/importer.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/pipeline/compressors/__init__.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/subprocess.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_import_data.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/control/volume.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/libgdal.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/db/utils.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/geometries.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/raster/source.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/geos/geometry.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/forms/widgets.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/control/exportneuroml.py" />
+        <option value="$USER_HOME$/catmaid/django/applications/catmaid/control/skeletonexport.py" />
+        <option value="$USER_HOME$/catmaid/django/configuration.py" />
+        <option value="$USER_HOME$/catmaid/django/projects/mysite/settings.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
+        <option value="$PROJECT_DIR$/../BlenderScripts/RemoveDuplicatesForBranches.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+        <option value="$PROJECT_DIR$/GetNeuronsByAnnotation.py" />
+        <option value="$PROJECT_DIR$/LC6_customNeuronClassSet.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/jsonNeurons.py" />
+        <option value="$PROJECT_DIR$/exportToCSV.py" />
+        <option value="$PROJECT_DIR$/GetDNrightConnectivity.py" />
+        <option value="$PROJECT_DIR$/CustomNeuronClassSet.py" />
+        <option value="$PROJECT_DIR$/testForDNcells.py" />
+        <option value="$PROJECT_DIR$/getSkeletonNodesNew.py" />
+        <option value="$PROJECT_DIR$/LC6_Connectivity.py" />
+        <option value="$PROJECT_DIR$/LC6_neuronClass.py" />
+        <option value="$PROJECT_DIR$/LC6_GetAnnotationsByID.py" />
+        <option value="$PROJECT_DIR$/MyCustomDNNeuronClass.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4511" />
+    <option name="y" value="208" />
+    <option name="width" value="2177" />
+    <option name="height" value="2104" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DescendingNeuronCodeGeneral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DescendingNeuronCodeGeneral" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\polskyj\MyCode\BlenderScripts" />
+      <recent name="C:\Users\polskyj\MyCode\DescendingNeuronCodeGeneral" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.scratch_5">
+    <configuration name="create_configuration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DescendingNeuronCodeGeneral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/catmaid/django" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/catmaid/django/create_configuration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exportneuroml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DescendingNeuronCodeGeneral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/catmaid/django/applications/catmaid/control" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/catmaid/django/applications/catmaid/control/exportneuroml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DescendingNeuronCodeGeneral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/catmaid/django/projects" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/catmaid/django/projects/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DescendingNeuronCodeGeneral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testForDNcells" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DescendingNeuronCodeGeneral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testForDNcells.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testForDNcells" />
+      <item itemvalue="Python.create_configuration" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.exportneuroml" />
+      <item itemvalue="Python.scratch_5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_5" />
+        <item itemvalue="Python.exportneuroml" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.create_configuration" />
+        <item itemvalue="Python.testForDNcells" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d006602-1d69-43f6-b525-878186eee7c0" name="Default" comment="" />
+      <created>1520632562477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520632562477</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Second Try - First commit for general DN package. I hope this doesn't break the program.">
+      <created>1527718194403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527718194403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3829" y="-11" width="3862" height="2182" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.08700265" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.44603494" side_tool="true" weight="0.45178658" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.5539651" visible="true" weight="0.31717172" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32999474" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32999474" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.9185879" weight="0.3294676" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39957827" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="R Graphics" order="0" weight="0.24491979" />
+      <window_info anchor="right" id="R Packages" order="1" weight="0.3299712" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.079820864" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.44603494" side_tool="true" weight="0.45178658" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.5539651" visible="true" weight="0.45178658" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32999474" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32999474" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.9185879" weight="0.3294676" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39957827" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="R Graphics" order="0" weight="0.24491979" />
+      <window_info anchor="right" id="R Packages" order="1" weight="0.3299712" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit for general DN package. I hope this doesn't break the program." />
+    <MESSAGE value="Second Try - First commit for general DN package. I hope this doesn't break the program." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Try - First commit for general DN package. I hope this doesn't break the program." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CustomNeuronClassSet.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_populate_summary_tables.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_export_data.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/projects/mysite/urls.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/urls.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_setup_tracing_for_project.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
+    <entry file="file://$USER_HOME$/catmaid/scripts/import/dot-import.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/geometry.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_import_data.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/core/exceptions.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/db/utils.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/geometries.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/raster/source.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/geos/geometry.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/forms/widgets.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/contrib/gis/gdal/geomtype.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/__init__.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/management/commands/catmaid_insert_example_projects.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/skeleton.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/annotationadmin.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/importer.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/exportneuroml.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/skeletonexport.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/applications/catmaid/control/volume.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/conf/__init__.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/django/core/serializers/json.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/configuration.py" />
+    <entry file="file://$USER_HOME$/catmaid/django/projects/mysite/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../BlenderScripts/RemoveDuplicatesForBranches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="62" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+    <entry file="file://$PROJECT_DIR$/GetNeuronsByAnnotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10620">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC6_GetAnnotationsByID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC6_Connectivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="2962" selection-start-line="2962" selection-end-line="2962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetListOfSkIDAndAnnotations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetAnnotationsByID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" selection-start-line="16" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetLookUpTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" selection-start-line="11" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetAnnotationsRemoveExtraneousInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="991">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSkeletonNodesNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="991">
+          <caret line="464" selection-start-line="464" selection-end-line="464" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC6_neuronClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="991">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LC6_customNeuronClassSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1356">
+          <caret line="278" column="55" selection-start-line="278" selection-start-column="55" selection-end-line="278" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testForDNcells.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="e#38#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exportToCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5883">
+          <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetDNrightConnectivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5661">
+          <caret line="156" column="32" selection-start-line="156" selection-start-column="32" selection-end-line="156" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCustomDNNeuronClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomNeuronClassSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1629">
+          <caret line="649" column="56" selection-start-line="649" selection-start-column="56" selection-end-line="649" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonNeurons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

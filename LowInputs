@@ -1,0 +1,359 @@
+Neuron Name,skeletonID,GF1 Synapse Count,classification,distribution,hemisphere
+GF input neuron 277809 MAR - unclassified type 1,277808,3,Unclassified GF input neuron - type 1,MedialLateral,RIGHT HEMISPHERE
+GF input neuron 296640 GMC SM JSP - unclassified type 57,296639,8,Unclassified GF input neuron - type 57,Lateral,LEFT HEMISPHERE
+GF input neuron 873737 MAR JSP - unclassified type 5,873736,2,Unclassified GF input neuron - type 5,Lateral,LEFT HEMISPHERE
+putative LPLC2 neuron 874304 MAR SMA,874303,9,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 874344 MAR,874343,7,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 1078404 SMA - unclassified type 16,1078403,7,Unclassified GF input neuron - type 16,Lateral,RIGHT HEMISPHERE
+GF input neuron 1085146 - unclassified type descending,1085145,1,Unclassified GF input neuron - Descending,Soma,RIGHT HEMISPHERE
+putative LPLC2 neuron 1143459 SM SMA,1143458,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1143612 MAR SMA,1143611,5,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1143622 MAR,1143621,8,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1144591 MAR,1144590,5,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input  neuron 1184190 SMA - unclassified type 5,1184189,4,Unclassified GF input neuron - type 5,Lateral,LEFT HEMISPHERE
+GF input neuron 1184293 SMA ET - unclassified type 27b,1184292,1,Unclassified GF input neuron - type 27b,Anterior,RIGHT HEMISPHERE
+GF input neuron 1201965 SMA JSP - unclassified type 22b,1201964,2,Unclassified GF input neuron - type 22b,Lateral,RIGHT HEMISPHERE
+GF input neuron 1202033 SMA - type 64b,1202032,1,Unclassified GF input neuron - type 64b,Lateral,LEFT HEMISPHERE
+GF input neuron 1202136 SMA - unclassified type 4,1202135,4,Unclassified GF input neuron - type 4,Soma,RIGHT HEMISPHERE
+GF input neuron 1202309 JSP - unclassified type 20,1202308,6,Unclassified GF input neuron - type 20,Medial,RIGHT HEMISPHERE
+GF input neuron 1212055 SMA - unclassified type 79 - miscellaneous,1212054,6,Unclassified GF input neuron - type 79,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 1212616 SMA - unclassified type 80 - miscellaneous,1212615,9,Unclassified GF input neuron - type 80,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 1212749 SMA - unclassified type 15,1212748,4,Unclassified GF input neuron - type 15,Lateral,RIGHT HEMISPHERE
+GF input neuron 1245996 MAR JSP - unclassified type 81 - miscellaneous,1245995,5,Unclassified GF input neuron - type 81,AnteriorMedialSoma,RIGHT HEMISPHERE
+GF input neuron 1246021 MAR JSP - unclassified type 14,1246020,5,Unclassified GF input neuron - type 14,Soma,LEFT HEMISPHERE
+GF input neuron 1246045 MAR JSP - unclassified type 4,1246044,8,Unclassified GF input neuron - type 4,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 1246137 MAR - unclassified type 64b,1246136,9,Unclassified GF input neuron - type 64b,MedialLateralSoma,RIGHT HEMISPHERE
+putative LPLC2 neuron 1316540 MAR,1316539,6,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1316698 SMA,1316697,5,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 1316769 SMA JSP - unclassified type 67,1316768,3,Unclassified GF input neuron - type 67,Lateral,LEFT HEMISPHERE
+GF input neuron 1316792 SMA JSP - unclassified type 7,1316791,6,Unclassified GF input neuron - type 7,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1316842 MAR,1316841,7,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 1316884 JSP - unclassified type 62,1316883,6,Unclassified GF input neuron - type 62,Lateral,LEFT HEMISPHERE
+GF input neuron 1316890 SMA - unclassified type 62,1316889,3,Unclassified GF input neuron - type 62,Lateral,LEFT HEMISPHERE
+GF input neuron 1317017 SMA - unclassified type 57,1317016,6,Unclassified GF input neuron - type 57,Lateral,LEFT HEMISPHERE
+putative LPLC2 neuron 1319487 SMA,1319486,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1319563 JSP,1319562,9,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1319624 SMA,1319623,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1319976 MAR SMA,1319975,8,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 1320077 SMA JSP - unclassified type 62,1320076,3,Unclassified GF input neuron - type 62,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1320162 SMA JSP,1320161,9,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1320180 SMA,1320179,3,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322157 SMA,1322156,4,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322374 SMA,1322373,3,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322417 SMA,1322416,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322517 SMA,1322516,4,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322550 SMA,1322549,6,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2  neuron 1322571 SMA,1322570,3,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 1322580 SMA,1322579,8,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 1324498 SMA - unclassified type 70,1324497,9,Unclassified GF input neuron - type 70,Lateral,RIGHT HEMISPHERE
+GF input neuron 1325322 MAR - unclassified type 70,1325321,2,Unclassified GF input neuron - type 70,Lateral,RIGHT HEMISPHERE
+GF input neuron 1326590 SMA - unclassified type 67,1326589,3,Unclassified GF input neuron - type 67,Lateral,LEFT HEMISPHERE
+SEZ.R -> LH.R -? 1914701 RJVR,1914700,4,Unclassified GF input neuron - shared,Lateral,RIGHT HEMISPHERE
+GF input neuron 2161609 JSP - unclassified type 16,2161608,6,Unclassified GF input neuron - type 16,Soma,RIGHT HEMISPHERE
+GF input neuron 2162178 MAR JSP - unclassified type 51,2162177,1,Unclassified GF input neuron - type 51,Soma,RIGHT HEMISPHERE
+GF input neuron 2162186 SMA - unclassified type 4,2162185,8,Unclassified GF input neuron - type 4,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 2162197 MAR JSP - unclassified type 62b,2162196,1,Unclassified GF input neuron - type 62b,Soma,LEFT HEMISPHERE
+GF input neuron 2162280 MAR - unclassified type 62b,2162279,2,Unclassified GF input neuron - type 62b,Soma,RIGHT HEMISPHERE
+GF input neuron 2162297 SMA - unclassified type 62,2162296,1,Unclassified GF input neuron - type 62,Soma,LEFT HEMISPHERE
+GF input neuron 2162604 SMA - unclassified type 49,2162603,2,Unclassified GF input neuron - type 49,Soma,RIGHT HEMISPHERE
+GF input neuron 2163257 MAR SMA - unclassified type descending,2163256,1,Unclassified GF input neuron - Descending,Soma,RIGHT HEMISPHERE
+GF input neuron 2164618 MAR - unclassified type 62,2164617,7,Unclassified GF input neuron - type 62,Soma,RIGHT HEMISPHERE
+GF input neuron 2170646 MAR JSP ET - unclassified type 73,2170645,2,Unclassified GF input neuron - type 73,Soma,LEFT HEMISPHERE
+GF input neuron 2172285 MAR - unclassified type 64b,2172284,1,Unclassified GF input neuron - type 64b,Soma,RIGHT HEMISPHERE
+GF input neuron 2190705 JSP - unclassified type 4,2190704,5,Unclassified GF input neuron - type 4,MedialSoma,LEFT HEMISPHERE
+GF input neuron 2286227 MAR JSP - unclassified type 58,2286226,2,Unclassified GF input neuron - type 58,Lateral,LEFT HEMISPHERE
+GF input neuron 2369517 MAR JSP - unclassified type 4,2369516,7,Unclassified GF input neuron - type 4,MedialSoma,LEFT HEMISPHERE
+GF input neuron 2369830 JSP - unclassified type 74,2369829,2,Unclassified GF input neuron - type 74,Medial,LEFT HEMISPHERE
+GF input neuron 2417919 JSP - unclassified type 11,2417918,8,Unclassified GF input neuron - type 11,MedialLateral,RIGHT HEMISPHERE
+GF input neuron 2419263 JSP - unclassified type 1,2419262,5,Unclassified GF input neuron - type 1,Medial,RIGHT HEMISPHERE
+GF input neuron 2437966 JSP - unclassified type 11,2437965,6,Unclassified GF input neuron - type 11,MedialLateral,LEFT HEMISPHERE
+GF input neuron 2438142 JSP - unclassified type 4,2438141,6,Unclassified GF input neuron - type 4,MedialLateralSoma,LEFT HEMISPHERE
+GF input neuron 2438885 JSP - unclassified type 1,2438884,4,Unclassified GF input neuron - type 1,Medial,RIGHT HEMISPHERE
+GF input neuron 2640681 JSP - unclassified type 65,2640680,2,Unclassified GF input neuron - type 65,Medial,RIGHT HEMISPHERE
+GF input neuron 2692601 JSP - unclassified type 13,2692600,7,Unclassified GF input neuron - type 13,Medial,RIGHT HEMISPHERE
+GF input neuron 2778159 MAR - unclassified type fragment,2778158,2,Unclassified GF input neuron - Fragment,Medial,RIGHT HEMISPHERE
+GF input neuron 2778347 MAR JSP - unclassified type 84 - miscellaneous,2778346,9,Unclassified GF input neuron - type 84,Medial,RIGHT HEMISPHERE
+GF input neuron 2799052 MAR - unclassified type 24a,2799051,1,Unclassified GF input neuron - type 24a,Anterior,RIGHT HEMISPHERE
+GF input neuron 2825339 JSP - unclassified type 4,2825338,2,Unclassified GF input neuron - type 4,Medial,LEFT HEMISPHERE
+GF input neuron 2856561 JSP - unclassified type 13,2856560,6,Unclassified GF input neuron - type 13,Medial,RIGHT HEMISPHERE
+GF input neuron 2857029 JSP - unclassified type 13,2857028,1,Unclassified GF input neuron - type 13,Medial,RIGHT HEMISPHERE
+GF input neuron 2857084 MAR - unclassified type 23a,2857083,6,Unclassified GF input neuron - type 23a,Anterior,midLine
+GF input neuron 2858122 JSP - unclassified type 85 - miscellaneous,2858121,4,Unclassified GF input neuron - type 85,Medial,RIGHT HEMISPHERE
+GF input neuron 2909579 JSP ET - unclassified type 59,2909578,7,Unclassified GF input neuron - type 59,MedialLateral,RIGHT HEMISPHERE
+GF input neuron 2969562 JSP - unclassified type 4,2969561,5,Unclassified GF input neuron - type 4,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 2971987 JSP - unclassified type 61a,2971986,8,Unclassified GF input neuron - type 61,AnteriorMedialLateral,RIGHT HEMISPHERE
+GF input neuron 2972592 SMA - unclassified type 15,2972591,3,Unclassified GF input neuron - type 15,Lateral,RIGHT HEMISPHERE
+GF input neuron 2975860 MAR - unclassified type 86 - miscellaneous,2975859,2,Unclassified GF input neuron - type 86,Lateral,RIGHT HEMISPHERE
+GF input neuron 2976575 SMA - unclassified type 31,2976574,4,Unclassified GF input neuron - type 31,AnteriorLateral,RIGHT HEMISPHERE
+neuron 2976996 PG,2976995,3,Unclassified GF input neuron - shared,Lateral,RIGHT HEMISPHERE
+GF input neuron 2978698 SMA JSP - unclassified type 87 - miscellaneous,2978697,4,Unclassified GF input neuron - type 87,Lateral,RIGHT HEMISPHERE
+GF input neuron 2979402 JSP - unclassified type 1,2979401,3,Unclassified GF input neuron - type 1,Medial,RIGHT HEMISPHERE
+GF input neuron 2979962 MAR - unclassified type 88 - miscellaneous,2979961,1,Unclassified GF input neuron - type 88,Lateral,RIGHT HEMISPHERE
+GF input neuron 2981216 SMA - unclassified type 8,2981215,4,Unclassified GF input neuron - type 8,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 2981230 SMA ET - unclassified type descending,2981229,6,Unclassified GF input neuron - Descending,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 3064076 MAR SMA - unclassified type 24a,3064075,7,Unclassified GF input neuron - type 24a,AnteriorLateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3067061 SMA,3067060,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3071218 SMA,3071217,7,LPLC2,Lateral,RIGHT HEMISPHERE
+neuron 3095993 HK JO-B(5),3095992,1,JONeuron,Anterior,RIGHT HEMISPHERE
+neuron 3115732 HK,3115731,1,JONeuron,Anterior,RIGHT HEMISPHERE
+neuron 3154271 PG,3154270,1,Unclassified GF input neuron - shared,Anterior,RIGHT HEMISPHERE
+neuron 3158873 PG,3158872,1,putative DNp06,Anterior,RIGHT HEMISPHERE
+neuron 3162220 PG,3162219,1,Unclassified GF input neuron - shared,Medial,RIGHT HEMISPHERE
+neuron 3187713 HK JO-B,3187712,3,JONeuron,Anterior,RIGHT HEMISPHERE
+putative LPLC2 neuron 3206541 SMA,3206540,5,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3258349 SMA,3258348,6,LPLC2,Lateral,RIGHT HEMISPHERE
+neuron 3278281 HK B1(1),3278280,1,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+putative LPLC2 neuron 3321377 SMA,3321376,7,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3350832 SMA - unclassified type 22,3350831,4,Unclassified GF input neuron - type 22,Lateral,RIGHT HEMISPHERE
+GF input neuron 3385432 SMA - unclassified type ascending,3385431,3,Unclassified GF input neuron - Ascending,Anterior,RIGHT HEMISPHERE
+GF input neuron 3401517 JSP - unclassified type 27a,3401516,2,Unclassified GF input neuron - type 27a,Soma,RIGHT HEMISPHERE
+neuron 3402381 HK JO-B,3402380,2,JONeuron,Anterior,RIGHT HEMISPHERE
+neuron 3403101 HK JO-B(5),3403100,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3410162 SMA - unclassified type 19,3410161,7,Unclassified GF input neuron - type 19,Lateral,RIGHT HEMISPHERE
+GF input neuron 3410596 JSP - unclassified type descending,3410595,4,Unclassified GF input neuron - Descending,Medial,RIGHT HEMISPHERE
+neuron 3410762 HK JO-B(5),3410761,2,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3442504 JSP - unclassified type 52,3442503,3,Unclassified GF input neuron - type 52,Medial,LEFT HEMISPHERE
+neuron 3458577 HK JO-B(5),3458576,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3472512 JSP - unclassified type 89 - miscellaneous,3472511,1,Unclassified GF input neuron - type 89,Medial,LEFT HEMISPHERE
+GF input neuron 3472730 JSP - unclassified type descending,3472729,1,Unclassified GF input neuron - Descending,Medial,RIGHT HEMISPHERE
+GF input neuron 3473328 JSP - unclassified type 13,3473327,2,Unclassified GF input neuron - type 13,Medial,RIGHT HEMISPHERE
+GF input neuron 3473403 JSP - unclassified type 13,3473402,6,Unclassified GF input neuron - type 13,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 3473443 JSP - unclassified type 13b,3473442,7,Unclassified GF input neuron - type 13b,Medial,RIGHT HEMISPHERE
+GF input neuron 3473566 JSP - unclassified type 90 - miscellaneous,3473565,1,Unclassified GF input neuron - type 90,Medial,RIGHT HEMISPHERE
+GF input neuron 3473939 JSP - unclassified type 4,3473938,4,Unclassified GF input neuron - type 4,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 3474092 JSP - unclassified type 52,3474091,7,Unclassified GF input neuron - type 52,Medial,RIGHT HEMISPHERE
+GF input neuron 3474147 JSP - unclassified type 91 - miscellaneous,3474146,8,Unclassified GF input neuron - type 91,Medial,RIGHT HEMISPHERE
+GF input neuron 3474588 JSP - unclassified type 2b,3474587,2,Unclassified GF input neuron - type 2b,Medial,RIGHT HEMISPHERE
+GF input neuron 3474829 MAR - unclassified type 56,3474828,2,Unclassified GF input neuron - type 56,Medial,RIGHT HEMISPHERE
+GF input neuron 3474919 JSP - unclassified type 10,3474918,9,Unclassified GF input neuron - type 10,Medial,LEFT HEMISPHERE
+neuron 3477674 HK JO-B(5),3477673,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3483724 MAR JSP - unclassified type 24d,3483723,5,Unclassified GF input neuron - type 24d,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 3511100 SMA - unclassified type 5,3511099,6,Unclassified GF input neuron - type 5,Lateral,LEFT HEMISPHERE
+neuron 3538467 HK JO-B(5),3538466,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3578338 JSP - unclassified type 17,3578337,2,Unclassified GF input neuron - type 17,AnteriorLateral,RIGHT HEMISPHERE
+neuron 3580998 HK JO-B?,3580997,2,JONeuron,Anterior,RIGHT HEMISPHERE
+neuron 3581010 HK JO-B?,3581009,2,JONeuron,Anterior,RIGHT HEMISPHERE
+putative LPLC2 neuron 1319530 SMA,3594207,6,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3599711 SMA - unclassified type fragment,3599710,1,Unclassified GF input neuron - Fragment,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3605510 SMA,3605509,9,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3610974 SMA JSP - unclassified type 19,3610973,6,Unclassified GF input neuron - type 19,Lateral,RIGHT HEMISPHERE
+GF input neuron 3622013 MAR JSP- unclassified type descending,3622012,3,Unclassified GF input neuron - Descending,AnteriorMedial,RIGHT HEMISPHERE
+GF input neuron 3626400 MAR JSP - unclassified type 65,3626399,7,Unclassified GF input neuron - type 65,MedialLateralSoma,RIGHT HEMISPHERE
+neuron 3642970 HK JO-B,3642969,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3656679 JSP - unclassified type 20,3656678,3,Unclassified GF input neuron - type 20,Medial,RIGHT HEMISPHERE
+GF input neuron 3658068 SMA - unclassified type 21a,3658067,3,Unclassified GF input neuron - type 21a,Lateral,LEFT HEMISPHERE
+neuron 3674079 HK JO-B,3674078,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3685331 JSP - unclassified type 13,3685330,1,Unclassified GF input neuron - type 13,Medial,RIGHT HEMISPHERE
+neuron 3693845 HK JO-B,3693844,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3701731 JSP - unclassified type fragment,3701730,3,Unclassified GF input neuron - Fragment,Medial,RIGHT HEMISPHERE
+GF input neuron 3701767 JSP - unclassified type shared,3701766,1,Unclassified GF input neuron - shared,Medial,RIGHT HEMISPHERE
+putative LPLC2 neuron 3703982 SMA,3703981,8,LPLC2,Lateral,RIGHT HEMISPHERE
+neuron 3704263 HK JO-B,3704262,2,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3704462 JSP  - unclassified type 20,3704461,1,Unclassified GF input neuron - type 20,Medial,RIGHT HEMISPHERE
+GF input neuron 3718061 SMA - unclassified type 21a,3718060,3,Unclassified GF input neuron - type 21a,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3730174 SMA,3730173,6,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3734118 SMA - unclassified type shared,3734117,1,Unclassified GF input neuron - shared,Lateral,RIGHT HEMISPHERE
+GF input neuron 3734842 JSP - unclassified type 26,3734841,1,Unclassified GF input neuron - type 26,Medial,LEFT HEMISPHERE
+GF input neuron 3737054 JSP - unclassified type 27a,3737053,1,Unclassified GF input neuron - type 27a,Medial,RIGHT HEMISPHERE
+putative LPLC2 neuron 3744121 SMA,3744120,4,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3746094 JSP - unclassified type 50,3746093,2,Unclassified GF input neuron - type 50,Medial,RIGHT HEMISPHERE
+GF input neuron 3746138 JSP - unclassified type 92 - miscellaneous,3746137,2,Unclassified GF input neuron - type 92,Medial,RIGHT HEMISPHERE
+neuron 3748801 HK JO-B,3748800,1,JONeuron,Anterior,RIGHT HEMISPHERE
+neuron 3749228 HK JO-B,3749227,4,JONeuron,Anterior,RIGHT HEMISPHERE
+putative LPLC2 neuron 3755063 SMA,3755062,4,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3757066 SMA,3757065,5,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3762943 SMA,3762942,4,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3765148 JSP - unclassified type 74,3765147,1,Unclassified GF input neuron - type 74,Medial,RIGHT HEMISPHERE
+GF input neuron 3784610 MAR JSP- unclassified type 24a,3784609,5,Unclassified GF input neuron - type 24a,Anterior,RIGHT HEMISPHERE
+GF input neuron 3785197 MAR - unclassified type 36,3785196,2,Unclassified GF input neuron - type 36,Anterior,RIGHT HEMISPHERE
+GF input neuron 3785262 MAR - unclassified type 24b,3785261,8,Unclassified GF input neuron - type 24b,Anterior,RIGHT HEMISPHERE
+GF input neuron 3785500 MAR - unclassified type 24b,3785499,3,Unclassified GF input neuron - type 24b,Anterior,RIGHT HEMISPHERE
+GF input neuron 3785620 MAR - unclassified type 33,3785619,1,Unclassified GF input neuron - type 33,Anterior,RIGHT HEMISPHERE
+GF input neuron 3786321 JSP - unclassified type 37,3786320,8,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3786575 MAR JSP - unclassified type 34,3786574,8,Unclassified GF input neuron - type 34,Anterior,RIGHT HEMISPHERE
+GF input neuron 3792264 JSP - unclassified type 37,3792263,5,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3792341 JSP - unclassified type 37,3792340,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 3792389 MAR - unclassified type 37,3792388,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron  3805243 SMA - unclassified type 24e,3805242,7,Unclassified GF input neuron - type 24e,Anterior,RIGHT HEMISPHERE
+GF input neuron 3805371 JSP - unclassified type 34,3805370,9,Unclassified GF input neuron - type 34,Anterior,RIGHT HEMISPHERE
+GF input neuron 3805381 JSP - unclassified type 35,3805380,7,Unclassified GF input neuron - type 35,Anterior,RIGHT HEMISPHERE
+GF input neuron 3813251 JSP - unclassified type 56,3813250,2,Unclassified GF input neuron - type 56,Medial,RIGHT HEMISPHERE
+putative LPLC2 neuron 3813412 SMA,3813411,4,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 3813834 JSP - unclassified type 61b,3813833,3,Unclassified GF input neuron - type 61b,Medial,LEFT HEMISPHERE
+GF input neuron 3824370 JSP - unclassified type 55,3824369,2,Unclassified GF input neuron - type 55,Medial,LEFT HEMISPHERE
+neuron 3831017,3831016,1,Unclassified GF input neuron - shared,Lateral,RIGHT HEMISPHERE
+GF input neuron 3844797 MAR - unclassified type 93 - miscellaneous,3844796,4,Unclassified GF input neuron - type 93,Lateral,RIGHT HEMISPHERE
+GF input neuron 3879010 JSP - unclassified type ocelli,3879009,2,Unclassified GF input neuron - ocelli,Medial,RIGHT HEMISPHERE
+GF input neuron 3952654 JSP - unclassified type 1,3952653,1,Unclassified GF input neuron - type 1,Medial,RIGHT HEMISPHERE
+GF input neuron 3985098 SMA JSP - unclassified type 24c,3985097,5,Unclassified GF input neuron - type 24c,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 3987230 JSP - unclassified type 63,3987229,5,Unclassified GF input neuron - type 63,MedialSoma,RIGHT HEMISPHERE
+GF input neuron 3994944 JSP - unclassified type fragment,3994943,2,Unclassified GF input neuron - Fragment,Medial,RIGHT HEMISPHERE
+GF input neuron 3995100 JSP - unclassified type 63,3995099,1,Unclassified GF input neuron - type 63,Medial,LEFT HEMISPHERE
+GF input neuron 3995134 MAR - unclassified type 94 - miscellaneous,3995133,1,Unclassified GF input neuron - type 94,Medial,RIGHT HEMISPHERE
+GF input neuron 3995144 JSP - unclassified type 26,3995143,1,Unclassified GF input neuron - type 26,Medial,LEFT HEMISPHERE
+putative LPLC2 neuron 3996259 SMA,3996258,5,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 3999676 SMA,3999675,4,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 4008547 SMA - unclassified type 1,4008546,9,Unclassified GF input neuron - type 1,AnteriorMedialLateral,RIGHT HEMISPHERE
+GF input neuron 4008812 SMA - unclassified type fragment,4008811,1,Unclassified GF input neuron - Fragment,Lateral,RIGHT HEMISPHERE
+neuron 4020718 FW-L_R12,4020717,1,Unclassified GF input neuron - type 27b,Anterior,RIGHT HEMISPHERE
+GF input neuron 4025735 SMA - unclassified type 6,4025734,1,Unclassified GF input neuron - type 6,Soma,RIGHT HEMISPHERE
+GF input neuron 931153 MAR JSP - unclassified type 7,4031063,1,Unclassified GF input neuron - type 7,Anterior,RIGHT HEMISPHERE
+GF input neuron 4031688 SMA - unclassified type 95 - miscellaneous,4031687,1,Unclassified GF input neuron - type 95,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 4065913 SMA,4065912,7,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 4070961 SMA,4070960,7,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 4100344 JSP - unclassified type 24d,4100343,1,Unclassified GF input neuron - type 24d,Anterior,RIGHT HEMISPHERE
+putative LPLC2 neuron 1316878 SMA ,4214209,6,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 4262598 JSP - unclassified type descending,4262597,2,Unclassified GF input neuron - Descending,Anterior,RIGHT HEMISPHERE
+GF input neuron 4262610 JSP - unclassified type 40,4262609,5,Unclassified GF input neuron - type 40,Anterior,RIGHT HEMISPHERE
+GF input neuron 4280958 SMA - unclassified type 6,4280957,3,Unclassified GF input neuron - type 6,AnteriorLateral,RIGHT HEMISPHERE
+GF input neuron 4346827 SMA - unclassified type 23a,4346826,2,Unclassified GF input neuron - type 23a,AnteriorLateral,midLine
+GF input neuron 4445569 JSP - unclassified type 23b,4445568,1,Unclassified GF input neuron - type 23b,Anterior,midLine
+GF input neuron 4457323 SMA - unclassified type 30,4457322,1,Unclassified GF input neuron - type 30,Lateral,LEFT HEMISPHERE
+GF input neuron 4473959 SMA - unclassified type fragment,4473958,2,Unclassified GF input neuron - Fragment,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 4522761 SMA,4522760,3,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 4529641 SMA - unclassified type 58,4529640,3,Unclassified GF input neuron - type 58,Lateral,RIGHT HEMISPHERE
+GF input neuron 4575378 SMA - unclassified type 22,4575377,1,Unclassified GF input neuron - type 22,Lateral,RIGHT HEMISPHERE
+GF input neuron 4674708 SMA - unclassified type 24a,4674707,3,Unclassified GF input neuron - type 24a,Lateral,RIGHT HEMISPHERE
+GF input neuron 4675045 SMA - unclassified type 29,4675044,1,Unclassified GF input neuron - type 29,Lateral,LEFT HEMISPHERE
+GF input neuron 4710845 SMA - unclassified type ascending,4710844,2,Unclassified GF input neuron - Ascending,Lateral,RIGHT HEMISPHERE
+GF input neuron 4951254 SMA JSP - unclassified type 64b,4951253,8,Unclassified GF input neuron - type 64b,AnteriorLateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 5002308 SMA,5002307,4,LPLC2,Lateral,RIGHT HEMISPHERE
+putative LPLC2 neuron 5022115 SMA,5022114,3,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 5026118 SMA - unclassified type 33,5026117,3,Unclassified GF input neuron - type 33,Anterior,RIGHT HEMISPHERE
+GF input neuron 5056544 SMA - unclassified type fragment,5056543,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 5062739 SMA - unclassified type 67,5062738,2,Unclassified GF input neuron - type 67,Anterior,RIGHT HEMISPHERE
+GF input neuron 5063124 - unclassified type fragment,5063123,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 5139436 SMA - unclassified type 36,5139435,2,Unclassified GF input neuron - type 36,Anterior,RIGHT HEMISPHERE
+GF input neuron 5159529 JSP - unclassified type 43,5159528,2,Unclassified GF input neuron - type 43,Anterior,LEFT HEMISPHERE
+GF input neuron 5162297 SMA JSP - unclassified type 96 - miscellaneous,5162296,1,Unclassified GF input neuron - type 96,Lateral,RIGHT HEMISPHERE
+GF input neuron 5224710 SMA ME,5224709,1,Unclassified GF input neuron - shared,Medial,RIGHT HEMISPHERE
+GF input neuron 5242519 JSP - unclassified type 46,5242518,3,Unclassified GF input neuron - type 46,Anterior,RIGHT HEMISPHERE
+GF input neuron 5243734 JSP - unclassified type 66a,5243733,3,Unclassified GF input neuron - type 66a,Anterior,RIGHT HEMISPHERE
+GF input neuron 5245520 JSP - unclassified type 39,5245519,4,Unclassified GF input neuron - type 39,Anterior,RIGHT HEMISPHERE
+GF input neuron 5260154 JSP - unclassified type ascending,5260153,4,Unclassified GF input neuron - Ascending,Anterior,RIGHT HEMISPHERE
+GF input neuron 5268390 JSP - unclassified type 29,5268389,4,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 5268532 JSP - unclassified type 39,5268531,3,Unclassified GF input neuron - type 39,Anterior,RIGHT HEMISPHERE
+GF input neuron 5268786 SMA - unclassified type fragment,5268785,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 5268917 JSP - unclassified type 42,5268916,1,Unclassified GF input neuron - type 42,Anterior,LEFT HEMISPHERE
+GF input neuron 5282236 SMA - unclassified type 23a,5282235,3,Unclassified GF input neuron - type 23a,Anterior,midLine
+putative aIP neuron 5283733 MD,5283732,2,aIP type 2b,Medial,RIGHT HEMISPHERE
+GF input neuron 5295250 JSP - unclassified type 24c,5295249,9,Unclassified GF input neuron - type 24c,Anterior,RIGHT HEMISPHERE
+GF input neuron 5317774 JSP - unclassified type 24a,5317773,8,Unclassified GF input neuron - type 24a,Anterior,RIGHT HEMISPHERE
+GF input neuron 5370272 SMA - unclassified type 35,5370271,1,Unclassified GF input neuron - type 35,Anterior,RIGHT HEMISPHERE
+GF input neuron 5385568 SMA - unclassified type 97 - miscellaneous,5385567,2,Unclassified GF input neuron - type 97,AnteriorDescending,RIGHT HEMISPHERE
+GF input neuron 5385579 SMA - unclassified type 98 - miscellaneous,5385578,1,Unclassified GF input neuron - type 98,Descending,RIGHT HEMISPHERE
+GF input neuron 5407349 JSP - unclassified type fragment,5407348,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 5422435 JSP - unclassified type 2b,5422434,3,Unclassified GF input neuron - type 2b,Anterior,RIGHT HEMISPHERE
+GF input neuron 5424219 SMA - unclassified type fragment,5424218,1,Unclassified GF input neuron - Fragment,Descending,RIGHT HEMISPHERE
+GF input neuron 5424261 JSP - unclassified type 66a,5424260,3,Unclassified GF input neuron - type 66a,Anterior,RIGHT HEMISPHERE
+GF input neuron 5585143 JSP - unclassified type 66a,5585142,2,Unclassified GF input neuron - type 66a,Anterior,RIGHT HEMISPHERE
+GF input neuron  5634459 SMA - unclassified type 42,5634458,2,Unclassified GF input neuron - type 42,Anterior,LEFT HEMISPHERE
+GF input neuron 5656210 JSP - unclassified type 29,5656209,5,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 5714784 SMA - unclassified type 24d,5714783,3,Unclassified GF input neuron - type 24d,Anterior,RIGHT HEMISPHERE
+GF input neuron 5846930 JSP - unclassified type 29,5846929,8,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 5846985 JSP - unclassified type 41,5846984,1,Unclassified GF input neuron - type 41,Anterior,LEFT HEMISPHERE
+GF input neuron 5869107 SMA - unclassified type 53,5869106,1,Unclassified GF input neuron - type 53,Anterior,RIGHT HEMISPHERE
+GF input neuron 5929302 SMA - unclassified type 39,5929301,6,Unclassified GF input neuron - type 39,Anterior,RIGHT HEMISPHERE
+GF input neuron 5936952 SMA - unclassified type 44,5936951,5,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 5954577 SMA - unclassified type 24e,5954576,4,Unclassified GF input neuron - type 24e,Anterior,RIGHT HEMISPHERE
+GF input neuron 5961964 SMA - unclassified type 75,5961963,1,Unclassified GF input neuron - type 75,Anterior,LEFT HEMISPHERE
+putative LPLC2 neuron 1143603 MAR,5996597,7,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 6001180 SMA - unclassified type 41,6001179,1,Unclassified GF input neuron - type 41,Anterior,LEFT HEMISPHERE
+putative LPLC2 neuron 6099231 JSP,6099230,2,LPLC2,Lateral,RIGHT HEMISPHERE
+GF input neuron 6130350 SMA - unclassified type 29,6130349,1,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 6143723 SMA - unclassified type 24b,6143722,2,Unclassified GF input neuron - type 24b,Anterior,RIGHT HEMISPHERE
+GF input neuron 6248422 JSP - unclassified type 41,6248421,2,Unclassified GF input neuron - type 41,Anterior,RIGHT HEMISPHERE
+GF input neuron 6294394 SMA - unclassified type 23b,6294393,2,Unclassified GF input neuron - type 23b,Anterior,midLine
+GF input neuron 6314464 SMA - unclassified type 40,6314463,2,Unclassified GF input neuron - type 40,Anterior,RIGHT HEMISPHERE
+GF input neuron 6331357 SMA - unclassified type 44,6331356,9,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6389535 JSP - unclassified type 42,6389534,2,Unclassified GF input neuron - type 42,Anterior,LEFT HEMISPHERE
+GF input neuron 6412164 JSP - unclassified type 37,6412163,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6412462 JSP - unclassified type 37,6412461,4,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6438657 SMA - unclassified  type 35,6438656,8,Unclassified GF input neuron - type 35,Anterior,RIGHT HEMISPHERE
+GF input neuron 6471341 SMA - unclassified type 43,6471340,2,Unclassified GF input neuron - type 43,Anterior,RIGHT HEMISPHERE
+GF input neuron 6543699 JSP - unclassified type 36,6543698,3,Unclassified GF input neuron - type 36,Anterior,RIGHT HEMISPHERE
+GF input neuron 6569337 JSP - unclassified type 99 - miscellaneous,6569336,1,Unclassified GF input neuron - type 99,Anterior,RIGHT HEMISPHERE
+GF input neuron 6834792 SMA - unclassified type 23a,6834791,3,Unclassified GF input neuron - type 23a,Anterior,midLine
+GF input neuron 6845856 SMA - unclassified type fragment,6845855,3,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 6849825 SMA - unclassified type 29,6849824,2,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 6856008 SMA - unclassified type 24e,6856007,2,Unclassified GF input neuron - type 24e,Anterior,RIGHT HEMISPHERE
+GF input neuron 6864290 JSP - unclassified type 37,6864289,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6864303 JSP - unclassified type 37,6864302,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6872937 SMA - unclassified type fragment,6872936,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 6873541 SMA - unclassified type 24e,6873540,3,Unclassified GF input neuron - type 24e,Anterior,RIGHT HEMISPHERE
+GF input neuron 6964174 SMA - unclassified type 40,6964173,2,Unclassified GF input neuron - type 40,Anterior,LEFT HEMISPHERE
+GF input neuron 6982745 JSP - unclassified type 37,6982744,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 6992233 SMA - unclassified type 39,6992232,4,Unclassified GF input neuron - type 39,Anterior,RIGHT HEMISPHERE
+GF input neuron 7034277 JSP - unclassified type 45,7034276,1,Unclassified GF input neuron - type 45,Anterior,RIGHT HEMISPHERE
+GF input neuron 7054110 JSP - unclassified type 34,7054109,2,Unclassified GF input neuron - type 34,Anterior,RIGHT HEMISPHERE
+GF input neuron 7064035 JSP - unclassified type ascending,7064034,1,Unclassified GF input neuron - Ascending,Anterior,RIGHT HEMISPHERE
+GF input neuron 7067859 SMA - unclassified type 41,7067858,1,Unclassified GF input neuron - type 41,Anterior,LEFT HEMISPHERE
+GF input neuron 7083678 SMA - unclassified type 44,7083677,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7095412 SMA - unclassified type 44,7095411,6,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7110830 SMA - unclassified type 37,7110829,2,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7119608 SMA - unclassified type 39,7119607,2,Unclassified GF input neuron - type 39,Anterior,RIGHT HEMISPHERE
+GF input neuron 7119714 SMA - unclassified type 45,7119713,2,Unclassified GF input neuron - type 45,Anterior,RIGHT HEMISPHERE
+GF input neuron 7164402 JSP - unclassified type descending,7164401,1,Unclassified GF input neuron - Descending,Medial,RIGHT HEMISPHERE
+GF input neuron 7196380 JSP - unclassified type 37,7196379,5,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7232136 JSP - unclassified type 37,7232135,9,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7237463 JSP - unclassified type 37,7237462,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7307128 SMA - unclassified type 46,7307127,1,Unclassified GF input neuron - type 46,Anterior,RIGHT HEMISPHERE
+GF input neuron 7378888 JSP - unclassified type 60,7378887,2,Unclassified GF input neuron - type 60,Anterior,midLine
+GF input neuron 7417156 SMA - unclassified type 37,7417155,4,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7426400 JSP - unclassified type 37,7426399,9,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7426864 SMA - unclassified type 37,7426863,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7452174 JSP - unclassified type 37,7452173,6,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7452463 JSP - unclassified type 37,7452462,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7456031 SMA - unclassified type 37,7456030,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7460370 JSP - unclassified type 37,7460369,8,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7460598 JSP - unclassifed type 37,7460597,4,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7509885 SMA - unclassified type fragment,7509884,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 7516944 SMA - unclassified type 37,7516943,9,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7517039 SMA -unclassified type 37,7517038,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7517233 JSP - unclassified type 37,7517232,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7528332 SMA - unclassified type 21b,7528331,1,Unclassified GF input neuron - type 21b,Lateral,RIGHT HEMISPHERE
+GF input neuron 7542083 JSP - unclassified type 37,7542082,5,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7571463 JSP - unclassified type 24b,7571462,1,Unclassified GF input neuron - type 24b,Anterior,RIGHT HEMISPHERE
+GF input neuron 7590311 JSP - unclassified type 58,7590310,1,Unclassified GF input neuron - type 58,Lateral,RIGHT HEMISPHERE
+GF input neuron 7602743 JSP - unclassified type 37,7602742,6,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7618674 JSP - unclassified type 37,7618673,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7625027 SMA - unclassified type 44,7625026,4,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7637925 JSP - unclassified type 37,7637924,5,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 7739699 JSP - unclassified type 62b,7739698,1,Unclassified GF input neuron - type 62b,Lateral,RIGHT HEMISPHERE
+GF input neuron 7740735 SMA - unclassified type 55,7740734,1,Unclassified GF input neuron - type 55,Medial,RIGHT HEMISPHERE
+GF input neuron 7741107 SMA - unclassified type ocelli,7741106,1,Unclassified GF input neuron - ocelli,Medial,midLine
+GF input neuron 7746806 SMA - unclassified type 49,7746805,1,Unclassified GF input neuron - type 49,Medial,RIGHT HEMISPHERE
+GF input neuron 7771300 SMA- unclassified type 6,7771299,1,Unclassified GF input neuron - type 6,Medial,RIGHT HEMISPHERE
+GF input neuron 7772846 JSP - unclassified type 64a,7772845,1,Unclassified GF input neuron - type 64a,Lateral,LEFT HEMISPHERE
+GF input neuron 7774421 SMA - unclassified type 59,7774420,1,Unclassified GF input neuron - type 59,Medial,RIGHT HEMISPHERE
+GF input neuron 7781546 SMA - unclassified type 73,7781545,1,Unclassified GF input neuron - type 73,Medial,LEFT HEMISPHERE
+GF input neuron 7782726 SMA - unclassified type 50,7782725,1,Unclassified GF input neuron - type 50,Medial,RIGHT HEMISPHERE
+GF input neuron 7807630 - unclassified type fragment,7807629,1,Unclassified GF input neuron - Fragment,Lateral,RIGHT HEMISPHERE
+GF input neuron 7826115 JSP - unclassified type 8,7826114,2,Unclassified GF input neuron - type 8,Lateral,RIGHT HEMISPHERE
+GF input neuron 7873348 SMA - unclassified type 20,7873347,1,Unclassified GF input neuron - type 20,Medial,RIGHT HEMISPHERE
+GF input neuron 7897179 JSP - unclassified type 29,7897178,1,Unclassified GF input neuron - type 29,Anterior,RIGHT HEMISPHERE
+GF input neuron 7928437 JSP - unclassified type 68,7928436,1,Unclassified GF input neuron - type 68,Lateral,RIGHT HEMISPHERE
+GF input neuron 8026971 JSP - unclassified type 6,8026970,1,Unclassified GF input neuron - type 6,Lateral,RIGHT HEMISPHERE
+GF input neuron 8103010 JSP - unclassified type 60,8103009,1,Unclassified GF input neuron - type 60,Anterior,midLine
+GF input neuron 8180654 JSP - unclassified type 51,8180653,1,Unclassified GF input neuron - type 51,Soma,RIGHT HEMISPHERE
+GF input neuron 8183285 SMA - unclassified type 17,8183284,1,Unclassified GF input neuron - type 17,Anterior,RIGHT HEMISPHERE
+GF input neuron 8255423 SMA- unclassified type 37,8255422,8,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input  neuron 8255630 SMA - unclassified type 48,8255629,2,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 8273743 SMA JSP - unclassified type fragment,8273742,2,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 8292496 ET - unclassified type 54,8292495,1,Unclassified GF input neuron - type 54,Lateral,RIGHT HEMISPHERE
+GF input neuron 8419339 - unclassified type fragment,8419338,1,Unclassified GF input neuron - Fragment,Lateral,RIGHT HEMISPHERE
+GF input neuron 8457606 SMA - unclassified type 30,8457605,2,Unclassified GF input neuron - type 30,Anterior,RIGHT HEMISPHERE
+GF input neuron 8564957 JSP - unclassified type fragment,8564956,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 8576700 JSP - unclassifed type 37,8576699,2,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 8578057 JSP - unclassified type 37,8578056,3,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 8601411 SMA - unclassified type 54,8601410,1,Unclassified GF input neuron - type 54,Anterior,RIGHT HEMISPHERE
+GF input neuron 8657256 SMA - unclassified type 100 - miscellaneous,8657255,1,Unclassified GF input neuron - type 100,Anterior,RIGHT HEMISPHERE
+GF input neuron 8661536 SMA - unclassified type 42,8661535,3,Unclassified GF input neuron - type 42,Anterior,LEFT HEMISPHERE
+GF input neuron 8720749 - unclassified type fragment,8720748,2,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 9124064 ET - unclassified type 6,9124063,1,Unclassified GF input neuron - type 6,Lateral,RIGHT HEMISPHERE
+GF input neuron 9594273 JSP - unclassified type 37,9594272,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 9646329 - unclassified type fragment,9646328,1,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE
+GF input neuron 9656529 JSP,9656528,1,JONeuron,Anterior,RIGHT HEMISPHERE
+GF input neuron 9708603 JSP - unclassified type 53,9708602,2,Unclassified GF input neuron - type 53,Anterior,RIGHT HEMISPHERE
+GF input neuron 4007910 ET - unclassified type 101 - miscellaneous,10201120,1,Unclassified GF input neuron - type 101,Lateral,RIGHT HEMISPHERE
+GF input neuron 10469360 SMA - unclassified type fragment,10469359,2,Unclassified GF input neuron - Fragment,Anterior,RIGHT HEMISPHERE

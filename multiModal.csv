@@ -1,0 +1,695 @@
+Neuron Name,skeletonID,Visual,Visual_Interneuron,JONeuron,Non-Visual_Interneuron,Ascending Neuron,Descending Neuron,Other Visual,Mechanosensory Interneuron,Fragment,Poster Modality
+GF input neuron 277740 GMC SM SMA JSP - unclassified type 3,277739,False,True,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 277809 MAR - unclassified type 1,277808,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 280738 MAR - unclassified type 57,280737,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 284704 GMC,284703,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 284789 GMC,284788,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 285582 GMC JSP SMA,285581,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 291246 GMC SM JSP - unclassified type 2a,291245,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 292338 GMC SMA,292337,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 292772 GMC SMA JSP,292771,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 295023 GMC JSP - GCI,295022,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 296640 GMC SM JSP - unclassified type 57,296639,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 308073 GMC JSP - GCI,308072,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 308339 GMC SMA,308338,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 308784 GMC MAR SMA JSP - unclassified type 76 - miscellaneous,308783,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 309386 GMC SMA,309385,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 309456 GMC - unclassified type 120,309455,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 310397 GMC SM SMA - unclassified type 5,310396,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 310539 GMC SMA - unclassified type 30,310538,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 310807 GMC MAR SMA JSP,310806,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 858336 SM MAR JSP - unclassified type 58,858335,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 858358 SM SMA,858357,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 864635 MAR - unclassified type 58,864634,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 867171 SM SMA JSP - unclassified type 9,867170,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 867282 SM,867281,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 867316 MAR SMA - unclassified type 68,867315,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 867558 MAR,867557,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 867714 MAR JSP - unclassified type 58,867713,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 867787 SM JSP,867786,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 872673 SM SMA,872672,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 873665 MAR,873664,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 873700 MAR SMA,873699,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 873721 MAR SMA,873720,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 873737 MAR JSP - unclassified type 5,873736,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 873761 MAR JSP - unclassified  type 10,873760,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 874166 MAR SMA - unclassified type 1,874165,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+putative LPLC2 neuron 874196 MAR,874195,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2  neuron 874204 MAR JSP,874203,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 874284 MAR SMA - unclassified type 19,874283,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 874304 MAR SMA,874303,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 874313 SM,874312,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 874344 MAR,874343,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 874360 MAR SMA JSP,874359,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 874368 MAR,874367,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 874387 MAR JSP - unclassified type 61b,874386,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 874395 MAR JSP,874394,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 874410 MAR JSP - unclassified type 9,874409,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 874417 MAR JSP - unclassified type 58,874416,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 893080 SM,893079,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 898525 MAR,898524,True,False,False,False,False,False,False,False,False,VPN
+SH-BN3->JO16,1055770,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 1060158 MAR SMA JSP - unclassified type 8,1060157,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 1060176 MAR,1060175,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1060196 MAR,1060195,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1060202 MAR,1060201,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1060222 MAR SMA,1060221,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1060275 MAR SMA - unclassified type 70,1060274,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1060282 MAR SMA - unclassified type 57,1060281,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1060310 MAR SMA - unclassified type 5,1060309,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 1060323 MAR JSP,1060322,True,False,False,False,False,False,False,False,False,VPN
+SH-IN_AMMC L+R,1065707,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 1075689 MAR SMA JSP - unclassified type 6,1075688,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1075716 MAR SMA - unclassified type 5,1075715,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 1075742 MAR,1075741,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1075778 MAR SMA,1075777,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1075822 MAR,1075821,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1077373 MAR,1077372,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1077485 MAR,1077484,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1077586 MAR JSP,1077585,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1078404 SMA - unclassified type 16,1078403,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1078502 MAR JSP - unclassified type 10,1078501,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1085146 - unclassified type 108,1085145,False,False,False,False,False,True,False,False,False,Descending Neuron
+putative LC4 neuron 1108135 MAR,1108134,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1108156 MAR,1108155,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1143459 SM SMA,1143458,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1143466 MAR,1143465,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1143612 MAR SMA,1143611,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1143622 MAR,1143621,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1144591 MAR,1144590,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1144605 MAR,1144604,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1162548 MAR SMA,1162547,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1162554 MAR,1162553,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 277734 MAR JSP - unclassified type 2a,1165857,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input  neuron 1184190 SMA - unclassified type 5,1184189,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1184204 SMA - unclassified type 77 - miscellaneous,1184203,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1184293 SMA ET - unclassified type 27b,1184292,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1195730 JSP SMA - unclassified type 122,1195729,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1195743 JSP - unclassified type 72b,1195742,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 1199000 MAR,1198999,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1199416 MAR,1199415,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1199469 JSP - unclassified type 21a,1199468,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 1200215 SMA - unclassified type 23a,1200214,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1200641 SMA - unclassified type 29,1200640,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 1201965 SMA JSP - unclassified type 22b,1201964,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1202033 SMA - type 64b,1202032,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1202136 SMA - unclassified type 4,1202135,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1202309 JSP - unclassified type 20,1202308,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1209951 MAR JSP - unclassified type 78 - miscellaneous,1209950,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1212055 SMA - unclassified type 79 - miscellaneous,1212054,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1212616 SMA - unclassified type 80 - miscellaneous,1212615,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1212743 SMA - unclassified type 22,1212742,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1212749 SMA - unclassified type 15,1212748,True,False,False,False,False,False,True,False,False,VPN
+GF input neuron 1213201 SMA JSP - unclassified type 9,1213200,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1245885 MAR SMA JSP - unclassified type 31,1245884,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 1245980 MAR JSP - unclassified type 1,1245979,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1245996 MAR JSP - unclassified type 81 - miscellaneous,1245995,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1246021 MAR JSP - unclassified type 14,1246020,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1246031 MAR JSP - unclassified type 82 - miscellaneous,1246030,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1246045 MAR JSP - unclassified type 4,1246044,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1246054 MAR JSP - unclassified type 64b,1246053,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1246137 MAR - unclassified type 64b,1246136,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 1316540 MAR,1316539,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316548 MAR,1316547,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316554 MAR SMA,1316553,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2  neuron 1316560 MAR SMA,1316559,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316566 MAR,1316565,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316572 MAR,1316571,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1316579 MAR SMA JSP - unclassified type 19,1316578,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 1316585 MAR,1316584,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316594 MAR SMA,1316593,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316600 MAR,1316599,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316606 MAR,1316605,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316631 SMA,1316630,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316637 SMA,1316636,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1316643 MAR SMA JSP - unclassified type 123,1316642,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 1316667 MAR SMA,1316666,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316673 MAR,1316672,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316679 JSP,1316678,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316685 MAR,1316684,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316698 SMA,1316697,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316705 MAR,1316704,True,False,False,False,False,False,False,False,False,VPN
+Putative LPLC2 neuron 1316717 JSP,1316716,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316723 SMA,1316722,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316739 JSP,1316738,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316745 MAR,1316744,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1316751 SMA - unclassified type 58,1316750,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1316757 JSP - unclassified type 61a,1316756,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1316769 SMA JSP - unclassified type 67,1316768,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1316792 SMA JSP - unclassified type 7,1316791,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1316816 MAR JSP - unclassified type 58,1316815,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 1316828 SMA,1316827,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316842 MAR,1316841,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316848 JSP SMA ,1316847,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1316884 JSP - unclassified type 62,1316883,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1316890 SMA - unclassified type 62,1316889,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 1316930 SMA JSP,1316929,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1316942 JSP - unclassified type 21a,1316941,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 309405 GMC SMA,1316949,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316970 MAR,1316969,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316977 SMA,1316976,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1316995 MAR,1316994,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1317005 MAR SMA,1317004,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1317017 SMA - unclassified type 57,1317016,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 1319280 JSP SMA,1319279,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319379 SMA,1319378,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319397 JSP,1319396,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319487 SMA,1319486,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319563 JSP,1319562,True,False,False,False,False,False,False,False,False,VPN
+Putative LPLC2 neuron 1319624 SMA,1319623,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319697 SMA,1319696,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319789 SMA,1319788,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319866 SMA,1319865,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319901 SMA,1319900,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319945 MAR SMA,1319944,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319969 MAR,1319968,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1319976 MAR SMA,1319975,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1320018 SMA,1320017,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1320077 SMA JSP - unclassified type 62,1320076,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 1320162 SMA JSP,1320161,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1320168 SMA,1320167,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1320180 SMA,1320179,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322157 SMA,1322156,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322374 SMA,1322373,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322417 SMA,1322416,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322517 SMA,1322516,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322550 SMA,1322549,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2  neuron 1322571 SMA,1322570,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322580 SMA,1322579,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322846 MAR,1322845,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1322853 MAR,1322852,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1323336 SMA,1323335,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1323591 SMA,1323590,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1324081 SMA - unclassified type 58,1324080,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 1324420 SMA JSP - unclassified type 58,1324419,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 1324490 MAR SMA,1324489,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1324498 SMA - unclassified type 70,1324497,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1324848 MAR SMA JSP - unclassified type 10,1324847,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 1325026 MAR,1325025,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325198 MAR SMA,1325197,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1325322 MAR - unclassified type 70,1325321,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 1325501 SMA JSP,1325500,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1325521 SMA - unclassified type 58,1325520,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LC4 neuron 1325529 SMA,1325528,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325579 SMA,1325578,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325593 SMA,1325592,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325637 SMA JSP,1325636,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325821 SMA JSP,1325820,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325939 SMA,1325938,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1325966 SMA,1325965,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1326007 SMA - unclassified type 30,1326006,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 1326053 SMA JSP - unclassified type 21b,1326052,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 1326073 SMA - unclassified type 8,1326072,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LC4 neuron 1326386 JSP SMA,1326385,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 1326498 SMA,1326497,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 1326590 SMA - unclassified type 67,1326589,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 1326616 MAR SMA,1326615,True,False,False,False,False,False,False,False,False,VPN
+neuron 1614935 HK,1614934,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 1622805 JSP - unclassified type 30,1622804,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+SEZ.R -> LH.R -? 1914701 RJVR,1914700,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2161593 SMA - unclassified type 12,2161592,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2161609 JSP - unclassified type 16,2161608,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2161848 SMA JSP - unclassified type 72a,2161847,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162070 SMA JSP - unclassified type 83 - miscellaneous,2162069,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2162178 MAR JSP - unclassified type 51,2162177,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162186 SMA - unclassified type 4,2162185,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162197 MAR JSP - unclassified type 62b,2162196,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162280 MAR - unclassified type 62b,2162279,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162297 SMA - unclassified type 62,2162296,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2162604 SMA - unclassified type 49,2162603,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2163257 MAR SMA - unclassified type 109,2163256,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2164618 MAR - unclassified type 62,2164617,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2170646 MAR JSP ET - unclassified type 73,2170645,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2172285 MAR - unclassified type 64b,2172284,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2190705 JSP - unclassified type 4,2190704,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2193349 JSP - unclassified type 2a,2193348,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2196072 MAR JSP - unclassified type 8,2196071,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2260025 JSP SMA - unclassified type 2a,2260024,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 2284701 JSP SMA,2284700,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 2286227 MAR JSP - unclassified type 58,2286226,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2366504 JSP - unclassified type 72a,2366503,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2368116 JSP - unclassified type 72b,2368115,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2369059 SMA - GCI,2369058,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2369517 MAR JSP - unclassified type 4,2369516,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2369830 JSP - unclassified type 74,2369829,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2370465 JSP - unclassified type 14,2370464,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2371163 JSP - unclassified type 58,2371162,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2371392 JSP - unclassified type 2a,2371391,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2416212 JSP SMA - unclassified type 8,2416211,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2416269 JSP - unclassified type 2a,2416268,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2417919 JSP - unclassified type 11,2417918,True,False,False,False,False,False,True,False,False,VPN
+GF input neuron 2419263 JSP - unclassified type 1,2419262,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 285546 GMC SM MAR SMA JSP - unclassified type 18,2437415,False,True,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2437628 JSP - unclassified type 110,2437627,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2437966 JSP - unclassified type 11,2437965,True,False,False,False,False,False,True,False,False,VPN
+GF input neuron 2438142 JSP - unclassified type 4,2438141,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2438339 JSP SMA - unclassified type 6,2438338,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2438885 JSP - unclassified type 1,2438884,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2439410 SMA JSP - unclassified type 111,2439409,False,True,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2640681 JSP - unclassified type 65,2640680,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2642964 JSP - unclassified type 102,2642963,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 2692550 JSP - unclassified type 71,2692549,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2692601 JSP - unclassified type 13,2692600,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2693317 JSP - unclassified type 10,2693316,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2693624 JSP - unclassified type 3,2693623,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2715436 SMA - unclassified type 57,2715435,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2778159 MAR - unclassified type fragment,2778158,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 2778281 JSP - unclassified type 10,2778280,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2778309 JSP - unclassified type 12,2778308,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2778347 MAR JSP - unclassified type 84 - miscellaneous,2778346,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2798888 MAR JSP - unclassified type 25,2798887,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2798936 MAR - unclassified type 17,2798935,False,False,False,False,True,False,False,True,False,Ascending Neuron
+GF input neuron 2799052 MAR - unclassified type 24a,2799051,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2799204 JSP - unclassified type 25,2799203,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2799233 JSP - unclassified type 112,2799232,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 2799876 JSP - unclassified type 25,2799875,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2799980 JSP - unclassified type 32,2799979,False,False,False,False,True,False,False,True,False,Ascending Neuron
+GF input neuron 2800078 JSP MAR - unclassified type 66b,2800077,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2800179 JSP - unclassified type 30,2800178,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2800423 JSP - unclassified type 25,2800422,False,False,False,False,False,False,False,True,True,Unknown
+GF input neuron 2825339 JSP - unclassified type 4,2825338,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2856561 JSP - unclassified type 13,2856560,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2857029 JSP - unclassified type 13,2857028,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2857084 MAR - unclassified type 23a,2857083,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2858122 JSP - unclassified type 85 - miscellaneous,2858121,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 874227 MAR SMA JSP - unclassified type 28,2858438,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2909579 JSP ET - unclassified type 59,2909578,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 2909716 SMA,2909715,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 2909977 JSP,2909976,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 2910015 MAR SMA JSP,2910014,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 2968801 JSP - unclassified type 18,2968800,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 2969562 JSP - unclassified type 4,2969561,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2971987 JSP - unclassified type 61a,2971986,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2972592 SMA - unclassified type 15,2972591,True,False,False,False,False,False,True,False,False,VPN
+GF input neuron 2973041 SMA JSP - unclassified type 69,2973040,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2973243 MAR JSP- unclassified type 17,2973242,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 2975598 MAR JSP - unclassified type 17,2975597,False,True,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 2975860 MAR - unclassified type 86 - miscellaneous,2975859,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2976575 SMA - unclassified type 31,2976574,False,True,False,False,False,False,False,True,False,Multi-Modal
+neuron 2976996 PG,2976995,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2977776 SMA JSP - unclassified type 6,2977775,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2978193 SMA JSP - unclassified type 57,2978192,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2978698 SMA JSP - unclassified type 87 - miscellaneous,2978697,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2979095 MAR SMA - unclassified type 28,2979094,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 2979402 JSP - unclassified type 1,2979401,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 2979962 MAR - unclassified type 88 - miscellaneous,2979961,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LC4 neuron 2980142 SMA,2980141,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 2980826 SMA - unclassified type 31,2980825,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2981083 SMA - unclassified type 57,2981082,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 2981216 SMA - unclassified type 8,2981215,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 2981230 SMA ET - unclassified type 113,2981229,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 3064076 MAR SMA - unclassified type 24a,3064075,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+putative LPLC2 neuron 3067061 SMA,3067060,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3071218 SMA,3071217,True,False,False,False,False,False,False,False,False,VPN
+putative LC4 neuron 3072215 SMA,3072214,True,False,False,False,False,False,False,False,False,VPN
+neuron 3095993 HK JO-B(G.5),3095992,False,False,True,False,False,False,False,True,False,JONeuron
+JO-AA_BI/BO_DA_1,3115731,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3149052 HK JO-B(G),3149051,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3154271 PG,3154270,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3158873 PG,3158872,False,True,False,False,False,True,False,False,False,Descending Neuron
+neuron 3162220 PG,3162219,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3187713 HK JO-B(G),3187712,False,False,True,False,False,False,False,False,False,JONeuron
+putative LPLC2 neuron 3203073 SMA,3203072,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3206541 SMA,3206540,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3245704 SMA - unclassified type 30,3245703,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LPLC2 neuron 3258349 SMA,3258348,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3262289 SMA JSP - unclassified type 5,3262288,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3278281 HK B1(1),3278280,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+putative LPLC2 neuron 3313002 SMA,3313001,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3319214 SMA,3319213,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3321377 SMA,3321376,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3350832 SMA - unclassified type 22,3350831,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3353940 HK JO-A,3353939,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3369057 SMA - unclassified type 24d,3369056,False,True,False,False,False,False,False,True,False,Multi-Modal
+neuron 3379263 HK JO-A,3379262,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3385432 SMA ET- unclassified type 103,3385431,False,False,False,False,True,False,False,True,False,Ascending Neuron
+GF input neuron 3401517 JSP - unclassified type 27a,3401516,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3402381 HK JO-B(G.1),3402380,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3403101 HK JO-B(G.5),3403100,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3410162 SMA - unclassified type 19,3410161,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3410596 JSP - unclassified type 114,3410595,False,False,False,False,False,True,False,False,False,Descending Neuron
+neuron 3410762 HK JO-B(G.5),3410761,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3442504 JSP - unclassified type 52,3442503,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3449993 HK JO-A,3449992,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3458431 HK JO-A,3458430,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3458577 HK JO-B(G.5),3458576,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3458821 HK JO-A,3458820,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3459186 HK JO-A,3459185,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3472512 JSP - unclassified type 89 - miscellaneous,3472511,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3472730 JSP - unclassified type 115,3472729,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 3473328 JSP - unclassified type 13,3473327,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3473403 JSP - unclassified type 13,3473402,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3473443 JSP - unclassified type 13b,3473442,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3473471 JSP - unclassified type 13c,3473470,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3473566 JSP - unclassified type 90 - miscellaneous,3473565,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3473939 JSP - unclassified type 4,3473938,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3474092 JSP - unclassified type 52,3474091,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3474114 JSP - unclassified type octopi,3474113,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3474147 JSP - unclassified type 91 - miscellaneous,3474146,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3474206 JSP - unclassified type 6,3474205,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3474215 JSP - unclassified type 10 ,3474214,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3474588 JSP - unclassified type 2b,3474587,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3474829 MAR - unclassified type 56,3474828,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3474919 JSP - unclassified type 10,3474918,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3477377 HK JO-A,3477376,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3477674 HK JO-B(G.5),3477673,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3483246 SMA - unclassified type 17,3483245,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 3483711 JSP - unclassified type 32,3483710,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 3483724 MAR JSP - unclassified type 24d,3483723,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+neuron 3490055 HK JO-A,3490054,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3504257 HK JO-A,3504256,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3506479 HK JO-A,3506478,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3511100 SMA - unclassified type 5,3511099,False,True,False,False,False,False,False,False,False,Visual Interneuron
+neuron 3515964 HK JO-A,3515963,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3516674 HK JO-A,3516673,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3531050 HK JO-A,3531049,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3538467 HK JO-B(G.5),3538466,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3563321 HK JO-B(G.5),3563320,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3578338 JSP - unclassified type 17,3578337,False,False,False,False,True,False,False,True,False,Ascending Neuron
+neuron 3580998 HK JO-B(G),3580997,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3581010 HK JO-B(G),3581009,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3581021 HK JO-B(G.1),3581020,False,False,True,False,False,False,False,True,False,JONeuron
+putative LPLC2 neuron 1319530 SMA,3594207,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3599711 SMA - unclassified type fragment,3599710,False,False,False,True,False,False,False,False,True,Unknown
+putative LPLC2 neuron 3605510 SMA,3605509,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3610974 SMA JSP - unclassified type 19,3610973,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3622013 MAR JSP- unclassified type 116,3622012,False,True,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 3626400 MAR JSP - unclassified type 65,3626399,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3642970 HK JO-B(G.4),3642969,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3652096 HK JO-B(G.5),3652095,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3656400 HK JO-B(G),3656399,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3656679 JSP - unclassified type 20,3656678,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3658068 SMA - unclassified type 21a,3658067,False,True,False,False,False,False,False,True,False,Multi-Modal
+neuron 3671779 HK JO-B(G),3671778,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3674079 HK JO-B(G),3674078,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3685331 JSP - unclassified type 13,3685330,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3693845 HK JO-B(G),3693844,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3701767 JSP - unclassified type 128,3701766,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 3703982 SMA,3703981,True,False,False,False,False,False,False,False,False,VPN
+neuron 3704263 HK JO-B(G),3704262,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3704462 JSP  - unclassified type 20,3704461,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 3711489 SMA,3711488,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3718061 SMA - unclassified type 21a,3718060,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LPLC2 neuron 3730174 SMA,3730173,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3734118 SMA - unclassified type 129,3734117,True,False,False,False,False,False,True,False,False,VPN
+GF input neuron 3734842 JSP - unclassified type 26,3734841,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3737054 JSP - unclassified type 27a,3737053,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 3744121 SMA,3744120,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3746094 JSP - unclassified type 50,3746093,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3746138 JSP - unclassified type 92 - miscellaneous,3746137,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3746371 HK JO-B(G),3746370,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3747724 HK JO-A,3747723,False,False,True,False,False,False,False,False,False,JONeuron
+neuron 3748236 HK JO-B(G.5),3748235,False,False,True,False,False,False,False,False,False,JONeuron
+putative LPLC2 neuron 3748629 SMA,3748628,True,False,False,False,False,False,False,False,False,VPN
+neuron 3748801 HK JO-B(G.1),3748800,False,False,True,False,False,False,False,True,False,JONeuron
+neuron 3749228 HK JO-B(G),3749227,False,False,True,False,False,False,False,True,False,JONeuron
+putative LPLC2 neuron 3755063 SMA,3755062,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3757066 SMA,3757065,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3762943 SMA,3762942,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3765148 JSP - unclassified type 74,3765147,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3784594 MAR JSP - unclassified type 24a,3784593,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3784610 MAR JSP- unclassified type 24a,3784609,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3784671 MAR - unclassified type 24b,3784670,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3784733 MAR - unclassified type 33,3784732,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3785172 MAR JSP - unclassified type 24d,3785171,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 3785197 MAR - unclassified type 36,3785196,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3785262 MAR - unclassified type 24b,3785261,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3785331 JSP - unclassified type 29,3785330,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3785354 JSP - unclassified type 37,3785353,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3785374 JSP - unclassified type 37,3785373,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3785500 MAR - unclassified type 24b,3785499,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3785620 MAR - unclassified type 33,3785619,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3786293 MAR - unclassified type 33,3786292,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3786321 JSP - unclassified type 37,3786320,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3786362 MAR - unclassified type 34,3786361,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3786415 SMA - unclassified type 37,3786414,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 3786575 MAR JSP - unclassified type 34,3786574,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3787283 JSP - unclassified type 33,3787282,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3792191 JSP - unclassified type 33,3792190,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3792264 JSP - unclassified type 37,3792263,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3792341 JSP - unclassified type 37,3792340,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 3792389 MAR - unclassified type 37,3792388,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron  3805243 SMA - unclassified type 24e,3805242,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3805371 JSP - unclassified type 34,3805370,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3805381 JSP - unclassified type 35,3805380,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3813251 JSP - unclassified type 56,3813250,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 3813412 SMA,3813411,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3813834 JSP - unclassified type 61b,3813833,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 3815709 SMA JSP,3815708,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 3824370 JSP - unclassified type 55,3824369,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+neuron 3831017,3831016,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3844797 MAR - unclassified type 93 - miscellaneous,3844796,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3844836 SMA JSP - unclassified type 22,3844835,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3844895 SMA JSP - unclassified type 23a,3844894,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3845449 MAR JSP - unclassified type 29,3845448,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 3847325 SMA JSP - unclassified type 24a,3847324,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 3853869 JSP - unclassified type 24c,3853868,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 3865447 SMA - unclassified type 24a,3865446,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3879010 JSP - unclassified type ocelli,3879009,False,False,False,False,False,False,True,False,False,VPN
+GF input neuron 3952654 JSP - unclassified type 1,3952653,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3980981 SMA JSP - unclassified type 64a,3980980,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3985098 SMA JSP - unclassified type 24c,3985097,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 3987230 JSP - unclassified type 63,3987229,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3994944 JSP - unclassified type fragment,3994943,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 3995100 JSP - unclassified type 63,3995099,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 3995134 MAR - unclassified type 94 - miscellaneous,3995133,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 3995144 JSP - unclassified type 26,3995143,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 3996259 SMA,3996258,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 3999676 SMA,3999675,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 4008547 SMA - unclassified type 1,4008546,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 4008812 SMA - unclassified type fragment,4008811,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 867180 MAR SMA JSP - unclassified type 71,4016205,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 4016548 MAR - unclassified type 31,4016547,False,True,False,False,False,False,False,True,False,Multi-Modal
+neuron 4020718 FW-L_R12,4020717,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4025678 SMA - unclassified type 28,4025677,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4025735 SMA - unclassified type 6,4025734,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 873492 MAR SMA JSP - unclassified type 131,4030800,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 931153 MAR JSP - unclassified type 7,4031063,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4031688 SMA - unclassified type 95 - miscellaneous,4031687,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 1060208 MAR SMA JSP - unclassified type 10,4034601,False,True,False,False,False,False,False,False,False,Visual Interneuron
+putative LPLC2 neuron 4065913 SMA,4065912,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 4070961 SMA,4070960,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 4100344 JSP - unclassified type 24d,4100343,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4100369 JSP - unclassified type 29,4100368,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4120095 JSP - unclassified type 25,4120094,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4121369 JSP - unclassified type 25,4121368,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4140264 JSP - unclassified type 29,4140263,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4161163 JSP - unclassified type 30,4161162,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+putative LPLC2 neuron 1316878 SMA ,4214209,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 4216946 SMA - unclassified type 30,4216945,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4223728 SMA - unclassified type 29,4223727,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4239731 JSP - unclassified type 30,4239730,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4239841 JSP - unclassified type 30,4239840,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4261025 JSP - unclassified type 31,4261024,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 4261526 JSP - unclassified type 25,4261525,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4262598 JSP - unclassified type 117,4262597,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 4262610 JSP - unclassified type 40,4262609,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 4280958 SMA - unclassified type 6,4280957,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4346827 SMA - unclassified type 23a,4346826,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 4419719 SMA - unclaassified type 34,4419718,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4445569 JSP - unclassified type 23b,4445568,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4457323 SMA - unclassified type 30,4457322,False,True,False,False,False,False,False,True,False,Multi-Modal
+GF input neuron 4473959 SMA - unclassified type fragment,4473958,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 2821642 MAR JSP - unclassified type 31,4512909,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LPLC2 neuron 4522761 SMA,4522760,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 4529641 SMA - unclassified type 58,4529640,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4575378 SMA - unclassified type 22,4575377,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 4674708 SMA - unclassified type 24a,4674707,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4675045 SMA - unclassified type 29,4675044,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4706796 JSP - unclassified type 30,4706795,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 4710845 SMA - unclassified type 104,4710844,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 4951254 SMA JSP - unclassified type 64b,4951253,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 5002308 SMA,5002307,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 5022115 SMA,5022114,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 5026118 SMA - unclassified type 33,5026117,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5030885 JSP - unclassified type 24c,5030884,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5040379 SMA JSP - unclassified type 21b,5040378,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5048757 SMA - unclassified type 34,5048756,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5056544 SMA - unclassified type fragment,5056543,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 5062739 SMA - unclassified type 67,5062738,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5063099 SMA JSP - unclassified type 24a,5063098,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5063124 - unclassified type fragment,5063123,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 5073396 JSP - unclassified type 37,5073395,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5082052 SMA JSP - unclassified type 35,5082051,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5087959 JSP - unclassified type 31,5087958,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5118420 JSP - unclassified type fragment,5118419,False,False,False,False,False,False,False,True,True,Unknown
+GF input neuron 5139436 SMA - unclassified type 36,5139435,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5159529 JSP - unclassified type 43,5159528,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5162297 SMA JSP - unclassified type 96 - miscellaneous,5162296,True,True,False,False,False,False,True,False,False,VPN
+GF input neuron 5198057 JSP - unclassified type 105,5198056,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 5224710 SMA ME,5224709,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5242519 JSP - unclassified type 46,5242518,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5243734 JSP - unclassified type 66a,5243733,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5243935 JSP - unclassified type 24a,5243934,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5245484 JSP - unclassified type 64a,5245483,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5245520 JSP - unclassified type 39,5245519,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5248671 JSP - unclassified type 47,5248670,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5260154 JSP - unclassified type 106,5260153,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 5268390 JSP - unclassified type 29,5268389,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5268404 JSP - unclassified type 118,5268403,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 5268532 JSP - unclassified type 39,5268531,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5268560 JSP - unclassified type 64a,5268559,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5268786 SMA - unclassified type fragment,5268785,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 5268917 JSP - unclassified type 42,5268916,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5282236 SMA - unclassified type 23a,5282235,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative aIP neuron 5283733 MD,5283732,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5287714 JSP - unclassified type 34,5287713,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5295237 JSP - unclassified type 69,5295236,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5295250 JSP - unclassified type 24c,5295249,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5296247 JSP - unclassified type 38,5296246,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 5301158 JSP - unclassified type 35,5301157,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5304808 SMA- unclassified type 37,5304807,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5307455 SMA - unclassified type 37,5307454,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5307767 SMA - unclassified type 37,5307768,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5312253 JSP - unclassified type 48,5312252,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5317774 JSP - unclassified type 24a,5317773,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5370272 SMA - unclassified type 35,5370271,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5370649 JSP - unclassified type 24a,5370648,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5380369 JSP - unclassified type 24c,5380368,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5381106 JSP - unclassified type 29,5381105,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5385568 SMA - unclassified type 97 - miscellaneous,5385567,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5385579 SMA - unclassified type 98 - miscellaneous,5385578,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5407349 JSP - unclassified type fragment,5407348,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 5422435 JSP - unclassified type 2b,5422434,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5423505 JSP - unclassified type 35,5423504,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5424161 JSP - unclassified type 30,5424160,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5424219 SMA - unclassified type fragment,5424218,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 5424261 JSP - unclassified type 66a,5424260,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5585143 JSP - unclassified type 66a,5585142,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron  5634459 SMA - unclassified type 42,5634458,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5642437 SMA - unclassified type 29,5642436,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5656210 JSP - unclassified type 29,5656209,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5699903 SMA - unclassified type 39,5699902,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5714784 SMA - unclassified type 24d,5714783,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5846930 JSP - unclassified type 29,5846929,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5846985 JSP - unclassified type 41,5846984,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5869107 SMA - unclassified type 53,5869106,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 5929302 SMA - unclassified type 39,5929301,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5936952 SMA - unclassified type 44,5936951,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 5954577 SMA - unclassified type 24e,5954576,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 5961964 SMA - unclassified type 75,5961963,False,True,False,False,False,False,False,True,False,Multi-Modal
+putative LPLC2 neuron 5994550 JSP,5994549,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 1143603 MAR,5996597,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 6001180 SMA - unclassified type 41,6001179,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+putative LPLC2 neuron 6034257 JSP,6034256,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 6099231 JSP,6099230,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 6101318 JSP,6101317,True,False,False,False,False,False,False,False,False,VPN
+putative LPLC2 neuron 6107966 JSP,6107965,True,False,False,False,False,False,False,False,False,VPN
+GF input neuron 6130350 SMA - unclassified type 29,6130349,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6143723 SMA - unclassified type 24b,6143722,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6239869 SMA JSP- unclassified type 30,6239868,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6248422 JSP - unclassified type 41,6248421,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6294394 SMA - unclassified type 23b,6294393,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 6314464 SMA - unclassified type 40,6314463,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 6331357 SMA - unclassified type 44,6331356,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6389535 JSP - unclassified type 42,6389534,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 6412164 JSP - unclassified type 37,6412163,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6412429 JSP - unclassified type 37,6412428,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 6412462 JSP - unclassified type 37,6412461,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6429151 JSP - unclassified type 37,6429150,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6438657 SMA - unclassified  type 35,6438656,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6471341 SMA - unclassified type 43,6471340,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6502781 JSP - unclassified type 48,6502780,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 6507302 JSP - unclassified type 48,6507301,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6507330 JSP - unclassified type 48,6507329,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6507359 JSP - unclassified type 37,6507358,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6538033 JSP - unclassified type 37,6538032,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 6543602 SMA - unclassified type 48,6543601,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6543642 SMA - unclassified type 37,6543641,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6543699 JSP - unclassified type 36,6543698,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 6544019 SMA JSP - unclassified type 37,6544018,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6544886 JSP - unclassified type 48,6544885,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6544975 JSP - unclassified type 48,6544974,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6569337 JSP - unclassified type 99 - miscellaneous,6569336,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6834792 SMA - unclassified type 23a,6834791,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 6845856 SMA - unclassified type fragment,6845855,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 6849825 SMA - unclassified type 29,6849824,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6856008 SMA - unclassified type 24e,6856007,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6864290 JSP - unclassified type 37,6864289,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6864303 JSP - unclassified type 37,6864302,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6872937 SMA - unclassified type fragment,6872936,False,False,False,False,False,False,False,True,True,Unknown
+GF input neuron 6873541 SMA - unclassified type 24e,6873540,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 6935685 JSP - unclassified type 37,6935684,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6964174 SMA - unclassified type 40,6964173,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 6982745 JSP - unclassified type 37,6982744,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 6992233 SMA - unclassified type 39,6992232,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7034277 JSP - unclassified type 45,7034276,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 7054110 JSP - unclassified type 34,7054109,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7064035 JSP - unclassified type 107,7064034,False,False,False,False,True,False,False,False,False,Ascending Neuron
+GF input neuron 7067859 SMA - unclassified type 41,7067858,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7083678 SMA - unclassified type 44,7083677,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7095412 SMA - unclassified type 44,7095411,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7110830 SMA - unclassified type 37,7110829,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7119608 SMA - unclassified type 39,7119607,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7119714 SMA - unclassified type 45,7119713,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 7164402 JSP - unclassified type 119,7164401,False,False,False,False,False,True,False,False,False,Descending Neuron
+GF input neuron 7168590 JSP - unclassified type 48,7168589,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7196380 JSP - unclassified type 37,7196379,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7232136 JSP - unclassified type 37,7232135,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 7237463 JSP - unclassified type 37,7237462,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 7260471 SMA - unclassified type 48,7260470,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7307128 SMA - unclassified type 46,7307127,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7340273 JSP - unclassified type 37,7340272,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7378888 JSP - unclassified type 60,7378887,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 7417156 SMA - unclassified type 37,7417155,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7426400 JSP - unclassified type 37,7426399,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7426864 SMA - unclassified type 37,7426863,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7431695 SMA - unclassified type 37,7431694,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 7431993 SMA - unclassified type 37,7431992,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7452174 JSP - unclassified type 37,7452173,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 7452463 JSP - unclassified type 37,7452462,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7456031 SMA - unclassified type 37,7456030,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7460370 JSP - unclassified type 37,7460369,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7460598 JSP - unclassifed type 37,7460597,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7509885 SMA - unclassified type fragment,7509884,False,False,False,False,False,False,False,True,True,Unknown
+GF input neuron 7516944 SMA - unclassified type 37,7516943,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7517039 SMA -unclassified type 37,7517038,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7517233 JSP - unclassified type 37,7517232,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7528332 SMA - unclassified type 21b,7528331,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7542083 JSP - unclassified type 37,7542082,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7571463 JSP - unclassified type 24b,7571462,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7590311 JSP - unclassified type 58,7590310,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 7602743 JSP - unclassified type 37,7602742,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7618674 JSP - unclassified type 37,7618673,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7625027 SMA - unclassified type 44,7625026,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7625059 JSP SMA - unclassifed type 37,7625058,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7637925 JSP - unclassified type 37,7637924,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 7664964 JSP - unclassified type 37,7664963,False,False,True,False,False,False,False,True,False,JONeuron
+GF input neuron 7739699 JSP - unclassified type 62b,7739698,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7740735 SMA - unclassified type 55,7740734,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7741107 SMA - unclassified type ocelli,7741106,False,False,False,False,False,False,True,False,False,VPN
+GF input neuron 7746806 SMA - unclassified type 49,7746805,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7771300 SMA- unclassified type 6,7771299,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 7772846 JSP - unclassified type 64a,7772845,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7774421 SMA - unclassified type 59,7774420,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7781546 SMA - unclassified type 73,7781545,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7782726 SMA - unclassified type 50,7782725,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7807630 - unclassified type fragment,7807629,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 7826115 JSP - unclassified type 8,7826114,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7873348 SMA - unclassified type 20,7873347,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 7897179 JSP - unclassified type 29,7897178,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 7928437 JSP - unclassified type 68,7928436,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 8026971 JSP - unclassified type 6,8026970,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8103010 JSP - unclassified type 60,8103009,False,False,False,False,False,True,False,True,False,Descending Neuron
+GF input neuron 8180654 JSP - unclassified type 51,8180653,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8183285 SMA - unclassified type 17,8183284,False,False,False,False,True,False,False,True,False,Ascending Neuron
+GF input neuron 8255423 SMA- unclassified type 37,8255422,False,False,True,False,False,False,False,False,False,JONeuron
+GF input  neuron 8255630 SMA - unclassified type 48,8255629,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 8273743 SMA JSP - unclassified type fragment,8273742,False,False,False,False,False,False,False,True,True,Unknown
+GF input neuron 8292496 ET - unclassified type 54,8292495,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8419339 - unclassified type fragment,8419338,False,True,False,False,False,False,False,False,True,Unknown
+GF input neuron 8457606 SMA - unclassified type 30,8457605,False,False,False,False,False,False,False,True,False,Mechanosensory Interneuron
+GF input neuron 8564957 JSP - unclassified type fragment,8564956,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 8576700 JSP - unclassifed type 37,8576699,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 8578057 JSP - unclassified type 37,8578056,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 8601411 SMA - unclassified type 54,8601410,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8657256 SMA - unclassified type 100 - miscellaneous,8657255,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8661536 SMA - unclassified type 42,8661535,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 8720749 - unclassified type fragment,8720748,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 9124064 ET - unclassified type 6,9124063,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 9594273 JSP - unclassified type 37,9594272,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 9646329 - unclassified type fragment,9646328,False,False,False,True,False,False,False,False,True,Unknown
+GF input neuron 9656529 JSP,9656528,False,False,True,False,False,False,False,False,False,JONeuron
+GF input neuron 9708603 JSP - unclassified type 53,9708602,False,False,False,True,False,False,False,False,False,Non-Visual Interneuron
+GF input neuron 4007910 ET - unclassified type 101 - miscellaneous,10201120,False,True,False,False,False,False,False,False,False,Visual Interneuron
+GF input neuron 10469360 SMA - unclassified type fragment,10469359,False,False,False,False,False,False,False,True,True,Unknown

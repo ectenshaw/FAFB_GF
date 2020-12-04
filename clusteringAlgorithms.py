@@ -1,6 +1,6 @@
 import sklearn
-#from CatmaidCode import MyCustomGFNeuronClass as CN
-#from CatmaidCode import CustomNeuronClassSet as CS
+import MyCustomGFNeuronClass as CN
+import CustomNeuronClassSet as CS
 import numpy as np
 from sklearn.cluster import AffinityPropagation
 from sklearn import metrics

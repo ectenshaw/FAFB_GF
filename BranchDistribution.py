@@ -1,12 +1,8 @@
 import CustomNeuronClassSet as CS
-import exportToCSV as e2c
-import jsonNeurons as JN
 
 
 
-
-def getBranchDistribution:
-
+def getBranchDistribution():
     #builds GF input set
     GiantFiberSet = CS.builder()
 

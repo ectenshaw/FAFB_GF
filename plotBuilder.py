@@ -8,14 +8,16 @@ import pandas as pd
 token = config.token
 project_id = config.project_id
 import plotly
-plotly.tools.set_credentials_file(username='CardLab', api_key='NsYwbHlFACg2IWkRUJvs')
+#plotly.tools.set_credentials_file(username='CardLab', api_key='NsYwbHlFACg2IWkRUJvs')
 from collections import defaultdict
+import chart_studio
+import chart_studio.plotly as py
+chart_studio.tools.set_credentials_file(username='etenshaw', api_key='1ZfRttbxiCZ95A7eBz0f')
 import MyCustomGFNeuronClass as GF
 import CustomNeuronClassSet as CS
 import colour
 import csv
-import plotly.plotly as py
-import plotly.graph_objs as go
+
 from plotly import tools
 from collections import OrderedDict
 

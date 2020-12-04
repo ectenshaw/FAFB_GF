@@ -32,7 +32,7 @@ mySet = CS.sortBySynL2H(mySet)
 #mySet.updateSomata()
 
 #gets all node coordinate points of every neuron in set - don't run unless this info is necessary
-#mySet.updateSkeletonNodes()
+#mySet.updateStokeletonNodes()
 #allSynapseCoordinates = id:[x,y,z,presynaptic skeleton id -- only if branches is run..?]
 #takes a while to run
 # mySet.combineAllSynLocations()
@@ -50,7 +50,7 @@ mySet.findNeuropils()
 mySet.findBranchDistributions()
 
 mySet.combineAllSynLocations()
-import SynapseClustering as PB
+import plotBuilder as PB
 allInfo = PB.getSynInfo(mySet)
 '''
 
